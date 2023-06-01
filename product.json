@@ -1,0 +1,548 @@
+
+   {
+    "id": 1,
+    "categoryId": 1,
+    "name": "Vegetable Pizza",
+    "category":"Vegitarian food items",
+    "cost": 12.99,
+    "image":"",
+    "brand": "Pizza Paradise",
+    "rating": {
+      "stars": 4.5,
+      "count": 87
+    }
+  
+  },
+  {
+    "id": 2,
+    "categoryId": 1,
+    "name": "Spinach Salad",
+    "category":"Vegitarian food items",
+    "cost": 8.99,
+    
+    "brand": "Fresh Delights",
+    "rating": {
+      "stars": 4.5,
+      "count": 87
+    }
+  },
+  {
+    "id":3 ,
+    "categoryId": 1,
+    "name": "Veggie Burger",
+    "category":"Vegitarian food items",
+    "cost": 6.99,
+    "brand": "Burger Bistro",
+    "rating": {
+      "stars": 4.5,
+      "count": 87
+    }
+  },
+  {
+    "id": 4,
+    "categoryId": 1,
+    "name": "Tofu Stir Fry",
+    "category":"Vegitarian food items",
+    "cost": 9.99,
+   
+    "brand": "Asian Fusion",
+    "rating": {
+      "stars": 4.5,
+      "count": 87
+    }
+  },
+  {
+    "id": 5,
+    "categoryId": 1,
+    "name": "Vegetable Noodles",
+    "category":"Vegitarian food items",
+    "cost": 7.99,
+    
+    "brand": "Noodle House",
+    "rating": {
+      "stars": 4.5,
+      "count": 87
+    }
+  },
+  {
+    "id": 6,
+    "categoryId": 1,
+    "name": "Caprese Salad",
+    "category":"Vegitarian food items",
+    "cost": 10.99,
+    
+    "brand": "Italian Eats",
+    "rating": {
+      "stars": 4.5,
+      "count": 87
+    }
+  },
+  {
+    "id": 7,
+    "categoryId": 1,
+    "name": "Vegetable Curry",
+    "category":"Vegitarian food items",
+    "cost": 11.99,
+    
+    "brand": "Spice Junction",
+    "rating": {
+      "stars": 4.5,
+      "count": 87
+    }
+  },
+  {
+    "id": 8,
+    "categoryId": 1,
+    "name": "Mushroom Risotto",
+    "category":"Vegitarian food items",
+    "cost": 14.99,
+    
+    "brand": "Gourmet Delights"
+    ,"rating": {
+      "stars": 4.5,
+      "count": 87
+    }
+  },
+  {
+    "id": 9,
+    "categoryId": 1,
+    "name": "Cauliflower Wings",
+    "category":"Vegitarian food items",
+    "cost": 8.99,
+    
+    "brand": "Healthy Bites",
+    "rating": {
+      "stars": 4.5,
+      "count": 87
+    }
+  },
+  {
+    "id": 10,
+    "categoryId": 1,
+    "name": "Vegan Sushi",
+    "category":"Vegitarian food items",
+    "cost": 9.99,
+    "brand": "Sushi Express",
+    "rating": {
+      "stars": 4.5,
+      "count": 87
+    }
+  },
+  {
+    "id": 11,
+    "categoryId": 1,
+    "name": "Quinoa Salad",
+    "category":"Vegitarian food items",
+    "cost": 10.99,
+    "brand": "Fresh Greens",
+    "rating": {
+      "stars": 4.5,
+      "count": 87
+    }
+  },
+  {
+    "id": 12,
+    "categoryId": 1,
+    "name": "Veggie Wrap",
+    "category":"Vegitarian food items",
+    "cost": 6.99,
+    "brand": "Wrap It Up",
+    "rating": {
+      "stars": 4.5,
+      "count": 87
+    }
+  },
+  {
+    "id": 13,
+    "categoryId": 1,
+    "name": "Eggplant Parmesan",
+    "category":"Vegitarian food items",
+    "cost": 12.99,
+    "brand": "Italian Flavors",
+    "rating": {
+      "stars": 4.5,
+      "count": 87
+    }
+  },
+  {
+    "id": 14,
+    "categoryId": 1,
+    "name": "Vegetable Biryani",
+    "category":"Vegitarian food items",
+    "cost": 11.99,
+    "brand": "Spice Route",
+    "rating": {
+      "stars": 4.5,
+      "count": 87
+    }
+  },
+  {
+    "id": 15,
+    "categoryId": 1,
+    "name": "Stuffed Bell Peppers",
+    "category":"Vegitarian food items",
+    "cost": 9.99,
+    "brand": "Healthy Eats",
+    "rating": {
+      "stars": 4.5,
+      "count": 87
+    }
+  },
+  {
+    "id": 16,
+    "categoryId": 1,
+    "name": "Vegetable Lasagna",
+    "category":"Vegitarian food items",
+    "cost": 13.99,
+    "brand": "Pasta Paradise",
+    "rating": {
+      "stars": 4.5,
+      "count": 87
+    }
+  }
+  ,
+  
+    {
+      "id": 17,
+      "categoryId": 2,
+      "name": "Chicken Biryani",
+      "cost": 14.99,
+      "brand": "Biryani House"
+    },
+    {
+      "id": 18,
+      "categoryId": 2,
+      "name": "Grilled Salmon",
+      "cost": 16.99,
+      "brand": "Seafood Delights"
+    },
+    {
+      "id": 19,
+      "categoryId": 2,
+      "name": "Beef Burger",
+      "cost": 9.99,
+      "brand": "Burger Joint"
+    },
+    {
+      "id": 20,
+      "categoryId": 2,
+      "name": "Shrimp Scampi",
+      "cost": 18.99,
+      "brand": "Italian Seafood"
+    },
+    {
+      "id": 21,
+      "categoryId": 2,
+      "name": "Lamb Kebabs",
+      "cost": 12.99,
+      "brand": "Middle Eastern Grill"
+    },
+    {
+      "id": 22,
+      "categoryId": 2,
+      "name": "Steak",
+      "cost": 24.99,
+      "brand": "Steakhouse"
+    },
+    {
+      "id": 23,
+      "categoryId": 2,
+      "name": "Butter Chicken",
+      "cost": 13.99,
+      "brand": "Indian Spices"
+    },
+    {
+      "id": 24,
+      "categoryId": 2,
+      "name": "Pork Ribs",
+      "cost": 17.99,
+      "brand": "BBQ Pit"
+    },
+    {
+      "id": 25,
+      "categoryId": 2,
+      "name": "Fish and Chips",
+      "cost": 11.99,
+      "brand": "British Eats"
+    },
+    {
+      "id": 26,
+      "categoryId": 2,
+      "name": "Pepperoni Pizza",
+      "cost": 12.99,
+      "brand": "Pizza World"
+    },
+    {
+      "id": 27,
+      "categoryId": 2,
+      "name": "Chicken Wings",
+      "cost": 10.99,
+      "brand": "Wing It"
+    },
+    {
+      "id": 28,
+      "categoryId": 2,
+      "name": "Crab Cakes",
+      "cost": 15.99,
+      "brand": "Seafood Sensation"
+    },
+    {
+      "id": 29,
+      "categoryId": 2,
+      "name": "Beef Stroganoff",
+      "cost": 13.99,
+      "brand": "Russian Delicacies"
+    },
+    {
+      "id": 30,
+      "categoryId": 2,
+      "name": "Sushi Rolls",
+      "cost": 16.99,
+      "brand": "Sushi Master"
+    },
+    {
+      "id": 31,
+      "categoryId": 2,
+      "name": "BBQ Ribs",
+      "cost": 18.99,
+      "brand": "Smoky BBQ"
+    },
+    {
+      "id": 32,
+      "categoryId": 2,
+      "name": "Chicken Shawarma",
+      "cost": 10.99,
+      "brand": "Mediterranean Grill"
+    },
+    [
+      {
+        "id": 33,
+        "categoryId": 3,
+        "name": "Orange Juice",
+        "cost": 3.99,
+        "brand": "Citrus Squeeze"
+      },
+      {
+        "id": 34,
+        "categoryId": 3,
+        "name": "Apple Juice",
+        "cost": 4.99,
+        "brand": "Orchard Fresh"
+      },
+      {
+        "id": 35,
+        "categoryId": 3,
+        "name": "Pineapple Juice",
+        "cost": 3.99,
+        "brand": "Tropical Delight"
+      },
+      {
+        "id": 36,
+        "categoryId": 3,
+        "name": "Mango Juice",
+        "cost": 4.99,
+        "brand": "Exotic Mangoes"
+      },
+      {
+        "id": 37,
+        "categoryId": 3,
+        "name": "Grape Juice",
+        "cost": 3.99,
+        "brand": "Vineyard Fresh"
+      },
+      {
+        "id": 38,
+        "categoryId": 3,
+        "name": "Cranberry Juice",
+        "cost": 4.99,
+        "brand": "Tart & Tangy"
+      },
+      {
+        "id": 39,
+        "categoryId": 3,
+        "name": "Watermelon Juice",
+        "cost": 3.99,
+        "brand": "Refreshing Melons"
+      },
+      {
+        "id": 40,
+        "categoryId": 3,
+        "name": "Strawberry Juice",
+        "cost": 4.99,
+        "brand": "Berry Bliss"
+      },
+      {
+        "id": 41,
+        "categoryId": 3,
+        "name": "Kiwi Juice",
+        "cost": 3.99,
+        "brand": "Tropical Kiwis"
+      },
+      {
+        "id": 42,
+        "categoryId": 3,
+        "name": "Pomegranate Juice",
+        "cost": 4.99,
+        "brand": "Juicy Gems"
+      },
+      {
+        "id": 43,
+        "categoryId": 3,
+        "name": "Blueberry Juice",
+        "cost": 3.99,
+        "brand": "Wild Berries"
+      },
+      {
+        "id": 44,
+        "categoryId": 3,
+        "name": "Lemonade",
+        "cost": 4.99,
+        "brand": "Zesty Citrus"
+      },
+      {
+        "id": 45,
+        "categoryId": 3,
+        "name": "Mango Lassi",
+        "cost": 3.99,
+        "brand": "Indian Delights"
+      },
+      {
+        "id": 46,
+        "categoryId": 3,
+        "name": "Ginger Ale",
+        "cost": 4.99,
+        "brand": "Spicy Twist"
+      },
+      {
+        "id": 47,
+        "categoryId": 3,
+        "name": "Pear Juice",
+        "cost": 3.99,
+        "brand": "Sweet & Juicy"
+      },
+      {
+        "id": 48,
+        "categoryId": 3,
+        "name": "Carrot Juice",
+        "cost": 4.99,
+        "brand": "Vitamin Booster"
+      }
+      ,
+      [
+        {
+          "id": 49,
+          "categoryId": 4,
+          "name": "Potato Chips",
+          "cost": 2.99,
+          "brand": "Crispy Crunch"
+        },
+        {
+          "id": 50,
+          "categoryId": 4,
+          "name": "Popcorn",
+          "cost": 3.99,
+          "brand": "Buttery Pops"
+        },
+        {
+          "id": 51,
+          "categoryId": 4,
+          "name": "Pretzels",
+          "cost": 2.99,
+          "brand": "Salty Twists"
+        },
+        {
+          "id": 52,
+          "categoryId": 4,
+          "name": "Cheese Balls",
+          "cost": 4.99,
+          "brand": "Cheesy Delights"
+        },
+        {
+          "id": 53,
+          "categoryId": 4,
+          "name": "Mixed Nuts",
+          "cost": 5.99,
+          "brand": "Nutty Fusion"
+        },
+        {
+          "id": 54,
+          "categoryId": 4,
+          "name": "Trail Mix",
+          "cost": 4.99,
+          "brand": "Healthy Bites"
+        },
+        {
+          "id": 55,
+          "categoryId": 4,
+          "name": "Granola Bars",
+          "cost": 3.99,
+          "brand": "Energy Boost"
+        },
+        {
+          "id": 56,
+          "categoryId": 4,
+          "name": "Chocolate Cookies",
+          "cost": 3.99,
+          "brand": "Sweet Temptations"
+        },
+        {
+          "id": 57,
+          "categoryId": 4,
+          "name": "Caramel Popcorn",
+          "cost": 4.99,
+          "brand": "Sweet & Salty"
+        },
+        {
+          "id": 58,
+          "categoryId": 4,
+          "name": "Rice Crackers",
+          "cost": 2.99,
+          "brand": "Crunchy Munch"
+        },
+        {
+          "id": 59,
+          "categoryId": 4,
+          "name": "Cheese Puffs",
+          "cost": 3.99,
+          "brand": "Cheesy Goodness"
+        },
+        {
+          "id": 60,
+          "categoryId": 4,
+          "name": "Tortilla Chips",
+          "cost": 2.99,
+          "brand": "Mexican Snacks"
+        },
+        {
+          "id": 61,
+          "categoryId": 4,
+          "name": "Peanut Butter Crackers",
+          "cost": 3.99,
+          "brand": "Nutty Treats"
+        },
+        {
+          "id": 62,
+          "categoryId": 4,
+          "name": "Baked Potato Wedges",
+          "cost": 4.99,
+          "brand": "Crispy Bites"
+        },
+        {
+          "id": 63,
+          "categoryId": 4,
+          "name": "Honey Roasted Almonds",
+          "cost": 5.99,
+          "brand": "Sweet & Nutty"
+        },
+        {
+          "id": 64,
+          "categoryId": 4,
+          "name": "Spicy Nachos",
+          "cost": 3.99,
+          "brand": "Fiery"
+        }
+    ]
+    
+  
+  
+]
